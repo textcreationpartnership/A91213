@@ -1,0 +1,940 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lords &amp; Commons first love to, zeale for, and earnest vindication of their injuriously accused and impeached Members, and violated priviledges. Manifested by their owne printed declarations, petitions, votes, in the case of the Lord Kimbolton, Mr. Denzill Holles, and some other Members, impeached by the Kings atornie, Mr. Herbert, (by the Kings owne speciall command) of high treason, in Ianuary 1641. With a paralell of Cromwells plot, in bringing the Army to London, with Henry Jermins and Percyes. And a briefe recitall of two ancient judgements in former Parliaments; proving, that it is no lesse then treason, for any to impeach Lords and Members of treason, for any thing acted by them, in, or by authority of Parliament; and that the Lords and Commons in this Parliament have, in effect, voted and declared as much. Humbly submitted to the consideration of both Houses, and of all such who by their covenant, and protestation are obliged to defend the priviledges of Parliament; and bring the infringers of them and malicious false impeachers of their Members to condigne punishment.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91213</idno>
+            <idno type="STC">Wing P4004</idno>
+            <idno type="STC">Thomason E422_10</idno>
+            <idno type="STC">ESTC R203253</idno>
+            <idno type="EEBO-CITATION">99863274</idno>
+            <idno type="PROQUEST">99863274</idno>
+            <idno type="VID">161385</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161385)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lords &amp; Commons first love to, zeale for, and earnest vindication of their injuriously accused and impeached Members, and violated priviledges. Manifested by their owne printed declarations, petitions, votes, in the case of the Lord Kimbolton, Mr. Denzill Holles, and some other Members, impeached by the Kings atornie, Mr. Herbert, (by the Kings owne speciall command) of high treason, in Ianuary 1641. With a paralell of Cromwells plot, in bringing the Army to London, with Henry Jermins and Percyes. And a briefe recitall of two ancient judgements in former Parliaments; proving, that it is no lesse then treason, for any to impeach Lords and Members of treason, for any thing acted by them, in, or by authority of Parliament; and that the Lords and Commons in this Parliament have, in effect, voted and declared as much. Humbly submitted to the consideration of both Houses, and of all such who by their covenant, and protestation are obliged to defend the priviledges of Parliament; and bring the infringers of them and malicious false impeachers of their Members to condigne punishment.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed anno Dom. 1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Compiled by William Prynne.</note>
+                  <note>Annotation on Thomason copy: "Jan: 8th 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holles, Denzil Holles, --  Baron, 1599-1680 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Privileges and immunities --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161385:1" rendition="simple:additions"/>
+            <p>THE
+LORDS &amp; COMMONS
+firſt <hi>Love</hi> to, <hi>Zeale</hi> for, and earneſt <hi>Vindication</hi> of their
+injuriouſly accuſed and impeached <hi>Members,</hi>
+and violated <hi>Priviledges.</hi>
+            </p>
+            <p>Manifeſted by their owne printed <hi>Declarations, Petitions,
+Votes,</hi> in the caſe of the Lord <hi>Kimbolton,</hi> Mr. <hi>Denzill Holles,</hi>
+and ſome other <hi>Members,</hi> impeached by the Kings
+ATORNIE, Mr. HERBERT, (by the Kings owne ſpeciall
+command) of <hi>High</hi> TREASON, in Ianuary 1641.</p>
+            <p>With a <hi>Paralell</hi> of <hi>Cromwells</hi> Plot, in bringing the Army
+to <hi>London,</hi> with <hi>HENRY JERMINS</hi> and <hi>PERCYES.</hi>
+            </p>
+            <p>And a briefe recitall of two ancient <hi>Iudgements</hi> in former Parlia<g ref="char:EOLhyphen"/>ments;
+proving, that it is no leſſe then <hi>Treaſon,</hi> for any to impeach <hi>Lords</hi>
+and <hi>Members</hi> of <hi>Treaſon,</hi> for any thing acted by them, in, or by Au<g ref="char:EOLhyphen"/>thority
+of Parliament; and that the Lords and Commons
+in this Parliament have, in effect, voted and
+declared as much.</p>
+            <p>Humbly ſubmitted to the conſideration of both <hi>Houſes,</hi> and of all
+ſuch who by their <hi>Covenant,</hi> and <hi>Proteſtation</hi> are obliged <hi>to defend the
+Priviledges of Parliament;</hi> and bring the <hi>Infringers of them</hi>
+and malicious falſe impeachers of their Members
+to <hi>condigne puniſhment.</hi>
+            </p>
+            <q>
+               <bibl>Rev. 2. 4. 5.</bibl>
+               <p>Nevertheleſſe, I have ſomewhat againſt thee, becauſe thou haſt left
+thy <hi>firſtlove</hi> Remember therefore from whence thou art fallen,
+and repent and do the <hi>firſt workes;</hi> or elſe I will come unto thee
+quickly, and will remove thy Candleſtick out of his place, except
+thou repent.</p>
+            </q>
+            <p>London, Printed <hi>Anno Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:161385:2"/>
+            <pb n="3" facs="tcp:161385:2"/>
+            <head>
+               <note n="*" place="margin">An exact Collection of all Remon<g ref="char:EOLhyphen"/>ſtrances, &amp;c. p. 38. &amp;c.</note> A DECLARATION
+Of the Houſe of Commons, touching
+a late breach of their Priveledges: And for the
+Vindication there of: And of divers Mem<g ref="char:EOLhyphen"/>bers
+of the ſaid Houſe.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS the Chambers, Studies, and Trunks
+of Mr. <hi>Denzil Holles,</hi> Sir <hi>Arthur Haſlerigge,</hi>
+Mr. <hi>Iohn Pym,</hi> Mr. <hi>Iohn Hampden,</hi> and Mr.
+<hi>William Strode</hi> Eſquiers, Members of the Houſe
+of <hi>Commons</hi> upon Monday the <hi>third</hi> of this in<g ref="char:EOLhyphen"/>ſtant
+<hi>Ianuary,</hi> by colour of his <hi>Majeſties War<g ref="char:EOLhyphen"/>rant</hi>
+have been ſealed up by Sir <hi>William Killegrew,</hi> and Sir <hi>Wil<g ref="char:EOLhyphen"/>liam
+Flemen,</hi> and others; which is not only againſt <hi>the Privi<g ref="char:EOLhyphen"/>ledge
+of Parliament,</hi> but the common Libertie of every Subject:
+Which ſaid Members afterwards the ſame day, were under the like
+colour, by <hi>Serjeant Francis,</hi> one of his Majeſties Serjants at
+Armes, contrary to all former preſidents, demanded of the <hi>Spea<g ref="char:EOLhyphen"/>ker</hi>
+fitting in the Houſe of <hi>Commons, to be delivered unto him,
+that he might Arreſt them of high Treaſon.</hi> And whereas after<g ref="char:EOLhyphen"/>wards
+the next day, his <hi>Majeſty</hi> in his Royall perſon came to the
+ſaid <hi>Houſe,</hi> attended with a great multitude of men, armed in
+warlike manner, with Halberts, Swords, and Piſtolls, who came up
+to the very Doore of the Houſe, and placed themſelves there,
+and in other places, and paſſages neer unto the ſaid Houſe, to the
+great terror and diſturbance of the <hi>Members</hi> then ſitting, and ac<g ref="char:EOLhyphen"/>cording
+to their duty in a peaceable and orderly Mannor, trea<g ref="char:EOLhyphen"/>ting
+of the great affaires of <hi>England</hi> and <hi>Ireland.</hi> And his Maje<g ref="char:EOLhyphen"/>ſty
+having placed himſelfe in the <hi>Speakers Chaire,</hi> demanded of
+<pb n="4" facs="tcp:161385:3"/>
+them the perſons of the ſaid Members to be delivered to him,
+<hi>which is a high breach</hi> of <hi>the Rights and Priviledges of Parlia<g ref="char:EOLhyphen"/>ment,
+and inconſiſtent with the Liberties and freedome thereof.</hi>
+And whereas afterwards his <hi>Majeſty</hi> did iſſue forth ſeverall War<g ref="char:EOLhyphen"/>rants
+to divers Officers, under his owne hand, for the apprehenſion
+of the ſaid Members, Which by Law he cannot doe, there being
+not all this time, <hi>any legall charge or accuſation, or due proceſs of
+Law iſſued againſt them,</hi> nor any pretence of Charg made known
+to that houſe; all which are againſt the fundamentall Liberties of
+the Subject, and <hi>the Rights of Parliament;</hi> whereupon <hi>we are ne<g ref="char:EOLhyphen"/>ceſſitated,
+according to our dutie, to declare;</hi> And we do hereby
+declare, that if any perſon ſhall arreſt Maſter <hi>Holles,</hi> Sir <hi>Arthur
+Haſlerigg,</hi> Mr <hi>Pym,</hi> Mr. <hi>Hampden,</hi> and Mr. <hi>Stroud,</hi> or any of
+them or any <hi>other Member of Parliament,</hi> by pretence or colour
+of any warrant iſſuing out from the <hi>King</hi> only, he is <hi>guiltie of the
+breach of the liberties of the Subject, and of the priviledg of Par<g ref="char:EOLhyphen"/>liament,
+and a publique enemie to the Common wealth;</hi> And that
+the Arreſting of the ſaid Members, or any of them, or of any o<g ref="char:EOLhyphen"/>ther
+<hi>Member of Parliament,</hi> by any <hi>Warrant whatſoever</hi> with<g ref="char:EOLhyphen"/>out
+a Legall proceeding againſt them, and without conſent of that
+houſe, whereof ſuch perſon is a Member, is <hi>againſt the Liberty of
+the Subject; and a breach of the Priviledge of Parl.</hi> And the per<g ref="char:EOLhyphen"/>ſon
+which ſhall arreſt any of theſe perſons or any other <hi>Member</hi>
+of the Parliament, is <hi>declared a</hi>
+               <note n="*" place="margin">What then are thoſe Offi<g ref="char:EOLhyphen"/>cers and ſoldi<g ref="char:EOLhyphen"/>ers in the Ar<g ref="char:EOLhyphen"/>my, who have arreſted, and ſtayed ſundry Members, (as Mr. <hi>Nicholls,</hi> Col. <hi>Birch.</hi> Sr. <hi>Samuell Luke,</hi> &amp;c.) im<g ref="char:EOLhyphen"/>peached, impri<g ref="char:EOLhyphen"/>ſoned &amp; driven away others, &amp; menaced all o<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> reſt that re<g ref="char:EOLhyphen"/>mained in the Houſe, in the Speakers ab<g ref="char:EOLhyphen"/>ſence in the Army.</note> 
+               <hi>publique enemie of the Common-Wealth.</hi>
+Notwithſtanding all which, we think fit, farther to declare,
+that we are ſo farre from any endeavours to protect any of our
+Members, that ſhall be in due manner proſecuted according to
+the Lawes of the Kingdome, and the rights and priviledges of
+Parliament, for <hi>Treaſon</hi> or any <hi>other miſ-demeanors,</hi> that none
+ſhall be more ready and willing then wee our ſelves to bring them
+to a ſpeedy and due tryall, being ſenſible, that it equally imports us
+as well to ſee juſtice done againſt them that are criminous, as to
+defend the juſt Rights and <hi>Liberties of the Subjects and Parlia<g ref="char:EOLhyphen"/>ment
+of England.</hi>
+            </p>
+            <p>And whereas, upon ſeverall examinations taken the 7th. day of
+this inſtant <hi>Ianuary,</hi> before the Committee appointed by the
+houſe of <hi>Commons</hi> to ſit in <hi>London,</hi> it did fully appeare, that many
+Soldiers, Papiſts and others, to the number of about <hi>five hundred</hi>
+               <pb n="5" facs="tcp:161385:3"/>
+came with his <hi>Majeſty</hi> on <hi>Tueſday</hi> laſt to the ſaid houſe of <hi>Com<g ref="char:EOLhyphen"/>mons,</hi>
+armed with Swords, Piſtols and other Weapons, and divers
+of them preſſed to the doore of the ſaid houſe, thruſt away the
+doore-keepers, and placed themſelves between the ſaid door and
+the ordinary Attendance of his <hi>Majeſty,</hi> holding up their ſwords,
+and ſome of them holding up their Piſtols ready cocked neere the
+ſaid doore; and ſaying, <hi>I am a good markes-man, I can hit right
+I warrant you,</hi> and they not ſuffering the ſaid doore, according
+to the cuſtome of Parliament to be ſhut, but ſaid, <hi>they would have
+the doore open,</hi> and if any oppoſition were againſt them, they made
+no queſtion, but they ſhould make their party good, and that they
+would maintain their party, and whenſeveral of the Members of the
+houſe of <hi>Commons</hi> were comming into the Houſe, their attendants
+deſiring that Room might be made for them, ſome of the ſaid Soul<g ref="char:EOLhyphen"/>diers
+anſwered, <hi>A pox of God confound them;</hi> and others ſaid, <hi>A
+pox take the houſe of Commons, let them come and be hanged:
+What a doe is here with the houſe of Commons;</hi> And ſome of the
+ſaid Souldiers did likewiſe aſſault, and by force diſarme ſome of
+the attendants, and ſervants of the Members of the houſe of Com<g ref="char:EOLhyphen"/>mons,
+waiting in the Roome next the ſaid houſe; and upon the
+Kings returne out of the ſaid houſe, many of them by wicked
+Oathes and otherwiſe expreſſed much diſcontent<g ref="char:punc">▪</g> that ſome Mem<g ref="char:EOLhyphen"/>bers
+of the Houſe, for whom they came, were not there, and others
+ſaid, when <hi>comes the word?</hi> And no word being given at his Ma<g ref="char:EOLhyphen"/>jeſties
+coming out, they cried a <hi>Lane a Lane,</hi> afterwards ſome of
+them being demanded <hi>what they thought the ſaid company inten<g ref="char:EOLhyphen"/>ded
+to have done?</hi> Anſwered, <hi>that queſtionleſſe in the poſture they
+were ſet, if the word had been given they ſhould have fallen upon
+the houſe of Commons, &amp; have cut al their throats.</hi> Vpon all which
+we are of opinion, that it is ſufficiently proved, that the comming
+of the ſaid Souldiers, Papiſts and others with his Majeſtie, to the
+houſe of <hi>Commons on Tueſday</hi> laſt, being the fourth of this inſtant
+<hi>Ianuary,</hi> in the manner aforeſaid, was <hi>to take away ſome of the-Members
+of the ſaid houſe,</hi> and if they ſhould have found oppoſi<g ref="char:EOLhyphen"/>tion
+or denyall, <hi>then to have falne upon the ſaid</hi>
+               <note n="*" place="margin">Was not the Armies im<g ref="char:EOLhyphen"/>peachment of the Members and march to <hi>London</hi> for the ſame pvrpoſe &amp; deſigne alike trayterous.</note> 
+               <hi>houſe in a ho<g ref="char:EOLhyphen"/>ſtile
+manner,</hi> And we doe hereby declare <hi>that the ſame was a tray<g ref="char:EOLhyphen"/>terous
+deſigne againſt the King and Parliament.</hi>
+            </p>
+            <p>And where as the ſaid Mr. <hi>Holles,</hi> Sir <hi>Arthur Haſlerigge,</hi> Mr.
+<pb n="6" facs="tcp:161385:4"/>
+               <hi>Pym,</hi> Mr. <hi>Hampden,</hi> and Mr. <hi>Strode</hi> upon report of the comming
+of the ſaid Souldiers, Papiſts and others in the warlick and hoſtile
+manner aforeſaid, did with the approbation of the houſe,<note n="*" place="margin">As the <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i &amp; other impea<g ref="char:EOLhyphen"/>ched Members did ſince.</note> 
+               <hi>abſent
+themſelves from the ſervice of the houſe, for avoyding the great
+and many inconveniences, which otherwiſe apparently might have
+happened,</hi> Since which time a <hi>printed paper</hi> in the forme of a
+<hi>Proclamation.</hi> bearing date the 6th. day of this inſtant <hi>Ianuary,</hi>
+hath iſſued out, for the <hi>apprehending</hi> and <hi>impriſoning</hi> of them;
+therein ſuggeſting, <hi>that</hi>
+               <note n="*" place="margin">Did not the Army &amp; their Agents print the ſame of the xi impeached Members who deſented them<g ref="char:EOLunhyphen"/>ſelves to pleaſe them</note> 
+               <hi>through the conſcience of their owne
+guilt, they were abſent and fled, not willing to ſubmit themſelves
+to Iuſtice.</hi> We do further declare,<note n="*" place="margin">So are their Papers againſt the xi. Mem<g ref="char:EOLhyphen"/>bers too</note> 
+               <hi>that the ſaid paper is falſe,
+ſcandalous, and illegall:</hi> and that notwithſtanding the ſaid prin<g ref="char:EOLhyphen"/>ted
+paper, or any Warrant iſſued out, or any other matter yet ap<g ref="char:EOLhyphen"/>pearing
+againſt them, or any of them, <hi>they</hi>
+               <note n="*" place="margin">So ought all the impeached Members and others ſuſpen<g ref="char:EOLhyphen"/>ded and ex<g ref="char:EOLhyphen"/>empted againſt by the Armies meanes.</note> 
+               <hi>may and ought to at<g ref="char:EOLhyphen"/>tend
+the ſervice of the ſaid houſe of Commons, and the ſeverall
+Committees on foot.</hi> And <hi>that it is lawfull for all perſons what<g ref="char:EOLhyphen"/>ſoever,
+to lodge, harbour, or converſe with them, or any of them,</hi>
+and whoſoever ſhall be queſtioned for the ſame, <hi>ſhall be under the
+protection and priviledge of the Parliament.</hi>
+            </p>
+            <p>
+               <hi>And we do further declare, that the publiſhing of</hi> ſeverall
+Articles purporting a forme of a Charge of high Treaſon <hi>againſt
+the Lord</hi> Kimbolton, <hi>one of the Members of the</hi> Lords houſe, <hi>and
+againſt the ſaid Mr.</hi> Holles, <hi>Sir</hi> Arthur Haſlerigge, <hi>Mr.</hi> Pym, <hi>Mr.</hi>
+Hampden, <hi>and Mr.</hi> Strode, <hi>by Sir</hi> William Killegrew, <hi>Sir</hi> William
+Flemen <hi>and others, in the Innes of Court and elſe where, in the
+Kings name, was</hi> a<note n="*" place="margin">And was not the Armies printing and publiſhing their generall &amp; par<g ref="char:EOLhyphen"/>ticular falſe ſcandalous Charge againſt the xi Mem<g ref="char:EOLhyphen"/>bers, ſuch?</note> high breach of the priviledge of Parliament,
+a great ſcandall to his Majeſty, and his Government: A ſediti<g ref="char:EOLhyphen"/>ous
+act manifeſtly tending to the ſubverſion of the peace
+of the Kingdome, and an injury and diſhonour to the ſaid
+Members, there being no legal charge or accuſation againſt them.</p>
+            <p>That the Priviledges of Parliament, and the Liberties of
+the Subject ſo violated and broken, cannot be fully and ſufficiently
+vindicated, unleſſe his<note n="*" place="margin">And is it not now as juſt to <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nquire as much of the Generall the Councell of Warre &amp; Ar<g ref="char:EOLhyphen"/>my, touching thoſe who con<g ref="char:EOLhyphen"/>trived &amp; pub<g ref="char:EOLhyphen"/>liſhed the Charge &amp; impeachment againſt the xi Members, &amp; preſſed their removeall from the Houſe, &amp;c before any proofe againſt them?</note> Majeſty will be gratiouſly pleaſed to
+diſcover the names of thoſe perſons, who adviſed his Majeſty to
+iſſue out Warrants, for the fealing of the Chambers, and Stu<g ref="char:EOLhyphen"/>dies
+of the ſaid Members, to ſend a Serjeant at Armes to the
+houſe of Commons to demand their ſaid Members, to iſſue our ſe<g ref="char:EOLhyphen"/>verall
+<pb n="7" facs="tcp:161385:4"/>
+Warrants under his Majeſties owne hand to apprehend
+the ſaid Members; His Majeſties comming thither in his owne
+Royall perſon, the publiſhing of the ſaid Articles, and printed
+paper in the forme of a Proclamation againſt the ſaid Members, in
+ſuch manner as is before declared, To the end, that ſuch perſons
+may receive condigne puniſhment.</p>
+            <p>
+               <hi>And this houſe doth further declare, that all ſuch perſons as
+have</hi> given any Councell, or endeavoured to ſet or maintaine di<g ref="char:EOLhyphen"/>viſion
+or diſlike between the King and Parliament, <hi>or have</hi> liſted
+their names, <hi>or otherwiſe entred into any</hi> Combination or agree<g ref="char:EOLhyphen"/>ment,
+to be ayding, or aſſiſting, to any ſuch Conncell, or endeavour,
+or have perſwaded any other ſo to doe, <hi>or</hi> that ſhall do any of the
+things above mentioned: And ſhall not forthwith diſcover the
+ſame to either houſe of Parliament; <hi>Or the</hi> Speaker of either of
+the ſaid Houſes reſpectively <hi>and diſclaime it,</hi> are<note n="*" place="margin">In what caſe then are thoſe Officers &amp; A<g ref="char:EOLhyphen"/>gitators in the Army who contrived and publiſhed their engagements, Charge, &amp; Re<g ref="char:EOLhyphen"/>monſtrauces againſt the ac<g ref="char:EOLhyphen"/>cuſed Members and others of both Houſes?</note> declared pub<g ref="char:EOLhyphen"/>lique
+Enemies of the State and peace of this Kingdome, and ſhall
+be enquired of and proceeded againſt accordingly.</p>
+            <p>Die Lunae 17. <hi>Ianuarij</hi> 1641. It is this day ordered, by the
+Commons aſſembled in Parliament, that this <hi>Declaration</hi> be
+forthwith publiſhed in print.</p>
+         </div>
+         <div type="petition">
+            <head>
+               <note n="*" place="margin">An exact Collection, &amp;c. p. 76.</note> To the Kings moſt Excellent Maieſty,
+The humble Petition of the Lords and Commons
+now Aſſembled in PARLIAMENT.</head>
+            <opener>SHEVVETH,</opener>
+            <p>
+               <hi>THat your</hi> Majeſty <hi>in anſwer to their late Petition, touching
+the proceedings againſt the Lord</hi> Kimbolton, <hi>Mr.</hi> Holles,
+<hi>Sir</hi> Arthur Haſterigge, <hi>Mr.</hi> Pym, <hi>Mr.</hi> Hampden, <hi>and Mr.</hi> Strode,
+<hi>Members of the</hi> Parliament <hi>was pleaſed to ſignifie:</hi> That as your
+Majeſty conceived that you had ground enough to accuſe them.
+So now your Majeſty finds as good cauſe wholly to deſert the pro<g ref="char:EOLhyphen"/>ſecution
+of them. <hi>Notwithſtanding which they remaine ſtill
+under that</hi> heavy charge <hi>ſo imputed to them, to the</hi> exceeding
+<pb n="8" facs="tcp:161385:5"/>
+prejudice <hi>not only of</hi>
+               <note n="*" place="margin">And is not this as true of the now impea<g ref="char:EOLhyphen"/>ched Members and Pe<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s?</note> 
+               <hi>themſelves</hi> but alſo of the whole Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <hi>And Whereas by the expreſſe Lawes and Statutes of this your
+Realm; that is to ſay, by two</hi> Acts <hi>of</hi> Parliament, <hi>the one made in
+the 37. yeer and the other in the 38. yeer of the raign of your moſt
+noble progenitour</hi> King Edward the 3. <hi>If any perſon</hi> whatſoe<g ref="char:EOLhyphen"/>ver
+make ſuggeſtion to the King himſelfe of any crime commit<g ref="char:EOLhyphen"/>ted
+by another, the ſame perſon ought to be ſent with the ſuggeſti<g ref="char:EOLhyphen"/>on
+before the Chancelour or Keeper of the great ſeale, Treaſurer,
+and the Great Councell, there to find ſuretie to purſue his ſuggeſ<g ref="char:EOLhyphen"/>tion;
+which if he cannot prove, he is to be impriſoned till he hath
+ſatisfied the partie accuſed of his dammages and ſlander, and made
+fine and ranſome to the King.</p>
+            <p>
+               <hi>The ſaid</hi> Lords <hi>and</hi> Commons <hi>humbly beſeech your Majeſty, that</hi>
+not only in point of Iuſtice to the ſaid<note n="*" place="margin">And ought not your ſelves to do that right to your impea<g ref="char:EOLhyphen"/>ched Members now, upon their malicious ac<g ref="char:EOLhyphen"/>cuſers, as you petitioned for the Members then impeached upon the ſelfe-ſame grounds.</note> Members in their particu<g ref="char:EOLhyphen"/>lers,
+<hi>but</hi> for the vindication of the Rights and Priviledges of Par<g ref="char:EOLhyphen"/>liament;
+<hi>Your</hi> Majeſty <hi>will be pleaſed</hi> to <hi>ſend</hi> the perſon or per<g ref="char:EOLhyphen"/>ſons,
+that in this caſe made the ſuggeſtions <hi>or</hi> informations to your
+Majeſty againſt the ſaid Members of Parliament, together with
+the ſaid ſuggeſtions or informations, to your Parliament. That ſo
+ſuch good fruits of the ſaid good Lawes may be had as was inten<g ref="char:EOLhyphen"/>ded
+<hi>by</hi> them, and the Rights and Priviledges of Parliament may
+be vindicated<g ref="char:punc">▪</g> which of Right and Iuſtice ought not to be denyed.</p>
+         </div>
+         <div type="document">
+            <head>
+               <note n="*" place="margin">An exact Col<g ref="char:EOLunhyphen"/>lection. p. 295 l 200. 201. &amp;c.</note> The Declaration or Remonſtrance of the Lords and
+Commons in Parliament aſſembled.
+<date>May 19. 1642.</date>
+            </head>
+            <p>THe Infinit mercie and providence of the <hi>Almightie God</hi> hath
+bin abundantly manifeſted ſince the beginning of this <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi>
+in great varietie of protections and bleſſings, whereby he
+hath not only dilivered us from many <hi>wicked plots<g ref="char:punc">▪</g>
+               </hi> and <hi>deſignes,</hi>
+which if they had taken effect would have brought <hi>ruine,</hi> and <hi>de<g ref="char:EOLhyphen"/>ſtruction</hi>
+upon this Kingdom: but out of thoſe attempts hath pro<g ref="char:EOLhyphen"/>duced
+divers evident and remarkeable advantages to the furthe<g ref="char:EOLhyphen"/>rance
+of thoſe ſervices, which we have bin deſirous to performe
+to our Soveraign Lord the <hi>King,</hi> and to this <hi>Church</hi> and <hi>State,</hi> in
+<pb n="9" facs="tcp:161385:5"/>
+providing for the publique peace and proſperity of his <hi>Majeſty,</hi>
+and all his <hi>Realmes,</hi> which in the preſence of the ſame all-ſeeing
+deity, we <hi>proteſt to have been, and ſtill to be the only end of all our
+councells and endeavours,</hi> wherein we have reſolved to <hi>continue,
+freed,</hi> and <hi>inlarged</hi> from<note n="*" place="margin">Can al Mem<g ref="char:EOLhyphen"/>bers make this Proteſtation now, without perjury or hy<g ref="char:EOLhyphen"/>pocriſie?</note> 
+               <hi>all privat aymes, perſonall reſpects</hi> or
+<hi>paſſions whatſoever</hi>
+            </p>
+            <p>In which reſolution we are nothing diſcouraged, although the
+heads of the <hi>Malignant partie</hi> diſappointed of that prey, the <hi>Re<g ref="char:EOLhyphen"/>ligion</hi>
+and <hi>Libertie</hi> of this <hi>Kingdome</hi> which they were readie to
+ſelfe upon and devour before the beginning of this Parliament,
+have ſtill perſiſted by new practiſes both of <hi>force</hi> and <hi>ſubtiltie,</hi> to
+recover the ſame againe. For which purpoſe; <hi>they have made ſe<g ref="char:EOLhyphen"/>verall</hi>
+               <note n="*" place="margin">The very Plot of <hi>Crom<g ref="char:EOLhyphen"/>well, Ireton,</hi> &amp; their Confede<g ref="char:EOLhyphen"/>rates ſince, who tread in theſe Malig<g ref="char:EOLhyphen"/>nants ſtepps &amp; have actually executed, what they only de<g ref="char:EOLhyphen"/>ſigned.</note> 
+               <hi>attempts for the bringing up of the Army:</hi> they after<g ref="char:EOLhyphen"/>wards
+<hi>projected the falſe accuſation of the Lord</hi> Kimbolton, <hi>and
+the five Members of the houſe of Commons,</hi> which being in it ſelfe
+<hi>of an odious nature,</hi> they yet ſo farre prevailed with his Majeſtie,
+as to procure him to take it on himſelfe<g ref="char:punc">▪</g> but when the unchange<g ref="char:EOLhyphen"/>able
+<hi>duty</hi> and <hi>faithfullneſſe of the Parliament could not be
+wrought upon by ſuch a fact as that;</hi> to withdraw any part of
+their reverence and obedience from his Majeſty, they have with
+much art and induſtry adviſed his Majeſty, <hi>to ſuffer divers uniuſt</hi>
+               <note n="*" place="margin">Have not the Army &amp; Agi<g ref="char:EOLhyphen"/>tators in their Remonſtrances Declarations, &amp; other printed Papers done the like, for a like deſigne, or worſe?</note> 
+               <hi>ſcandals and imputations upon the Parliament to be publiſhed
+in his name, whereby they might make it odious to the people,</hi> and
+<hi>by their help to deſtroy that, which hitherto hath been the onely
+meanes of their preſervation, &amp;c.</hi>
+            </p>
+            <p>The accuſation of the Lord <hi>Kimbolton,</hi> and the five Members of
+the houſe of <hi>Commons,</hi> is called<note n="*" place="margin">And were not the late impeach<g ref="char:EOLunhyphen"/>ments of the 11 Members and 7 Peers ſuch, farr above any ſatiſ<g ref="char:EOLhyphen"/>faction yet gi<g ref="char:EOLhyphen"/>ven them by their Accuſers?</note> 
+               <hi>a breach of Priviledge,</hi> and <hi>tru<g ref="char:EOLhyphen"/>ly
+ſo it was, and a very high one;</hi> far <hi>above any ſatisfaction that
+hath been yet given.</hi> How can it be ſaid to be largely ſatisfied, ſo
+long as his Majeſty laboured, <hi>to preſerve Mr. Attorney from
+puniſhment;</hi> Who was the viſible Actor in it? ſo long as his Ma<g ref="char:EOLhyphen"/>jeſty
+hath not only juſtified him, but by his Letter declared, <hi>that it
+was his duty to accuſe them, and, that he would have puniſhed him,
+if he had not done it? So long as thoſe Members have not the</hi>
+               <note n="*" place="margin">The caſe of thoſe now im<g ref="char:EOLhyphen"/>peached</note>
+               <hi>meanes of cleering their innocencie? And the Authors of that
+malitious charge undiſcovered, though both houſes of Parliament
+have ſeverall times petitioned his Majeſty to diſcover them.</hi> And
+that not only upon grounds of <hi>Common Iuſtice,</hi> but by <hi>act</hi> of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi>
+               <pb n="10" facs="tcp:161385:6"/>
+His <hi>Majeſty</hi> is bound to do it? So long as the King refu<g ref="char:EOLhyphen"/>ſeth
+to paſſe a bill for <hi>their diſcharge;</hi> Aleadging, <hi>that the narra<g ref="char:EOLhyphen"/>tive
+in that Bill is againſt his honor,</hi> whereby he ſeemes ſtill to a<g ref="char:EOLhyphen"/>vow
+the matter of that falſe accuſation though he deſerts the pro<g ref="char:EOLunhyphen"/>ſecution,
+offring to paſſe a bill for their acquittall, yet with <hi>inti<g ref="char:EOLhyphen"/>mation,</hi>
+that they<note n="*" place="margin">And muſt the now impea<g ref="char:EOLhyphen"/>ched Lords &amp; Commons do ſo to, as their falſe Acu<g ref="char:EOLhyphen"/>ſers would have them?</note> 
+               <hi>muſt deſert the avowing their owne innocen<g ref="char:EOLhyphen"/>cie,
+which would more wound them in honor, then ſecure them in
+Law.</hi>
+            </p>
+            <p>And in <hi>Vindication</hi> of this great <hi>priviledg of Parliament,</hi> we do
+not know that we have invaded any priviledge belonging to his
+Majeſty as is aleadged in this Declaration.</p>
+            <p>
+               <hi>But we looke not upon this only in the Notion, of a</hi> breach
+of priviledge, <hi>which might be, though the accuſation were true,
+or falſe,</hi> but under the notion of a haynous crime in the Attorney,
+and all other Subjects, who had a hand in it. <hi>A</hi>
+               <note n="*" place="margin">Is not this the Councell <gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Wars &amp; the Armies crime, <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> impeaching <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> preſent in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ent Lords, Commons, and Citizens of Treaſon, in the <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of the high <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> I<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dicatory? <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall it go unpuniſhed &amp; <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y unrecom<g ref="char:EOLhyphen"/>penced and un<g ref="char:EOLhyphen"/>ſighted?</note> crime againſt the
+Law of nature, againſt the rules <hi>of</hi>
+               <note n="*" place="margin">Much les Sr Thomas Fair<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and his Councell in the army.</note> Iuſtice, that innocent men
+ſhould be charged with ſo great an offence as Treaſon, in the face
+of the higheſt Iudicatory of the Kingdome, whereby their lives,
+and eſtates, their blood, and honor, are endangered without witnes,
+without evidence, without all poſſibility of reparation in a Legall
+courſe: <hi>yet a crime of ſuch a nature, that his</hi>
+               <note n="*" place="margin">Much leſſe then an whole army.</note> Majeſties command
+can no more warrant, then it can any other Act of injuſtice. <hi>It is
+true that thoſe things which are evill in their own nature, ſuch as is</hi>
+falſe teſtimony, <hi>or</hi> falſe accuſation cannot be the Subject of any
+command, or induce any obligation of obedience upon any man, by
+any authority whatſoever: <hi>therefore the</hi> Attorney <hi>in this caſe was</hi>
+bound to refuſe to execute ſuch a command, <hi>unleſſe he had ſome</hi>
+ſuch evidence or teſtimonie as might have warranted him againſt
+the parties, and be lyable to make ſatisfaction if it ſhould prove
+falſe: <hi>and it is ſufficiently knowne to every man, and adjudged in
+Parliament, that the</hi>
+               <note n="*" place="margin">Be ſure then to give the im<g ref="char:EOLhyphen"/>peached Mem<g ref="char:EOLhyphen"/>bers of both houſes now, ve<g ref="char:EOLhyphen"/>ry good ſatis<g ref="char:EOLhyphen"/>faction againſt their malicious accuſers to <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nt the danger <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mated.</note> King <hi>can be</hi> neither <hi>the</hi> Relator, informer
+<hi>nor</hi> witneſſe. <hi>If it</hi> reſt as <hi>it is</hi> without further ſatisfaction, <hi>no</hi>
+future Parliament can be ſafe, But that the Members may be ta<g ref="char:EOLhyphen"/>ken
+and deſtroyed at pleaſure, yea the very principles of Govern<g ref="char:EOLhyphen"/>ment
+and Iuſtice will be in danger to be diſſolved.</p>
+            <p>
+               <hi>The Occaſion of this</hi> Declaration <hi>and</hi> Remonſtrance <hi>of both
+Houſes, was the treaſonable Plot of</hi> Henry Jermin, Peircy, Goa<g ref="char:EOLhyphen"/>ring,
+<hi>and others related in and annexed to it: which they thus ex<g ref="char:EOLhyphen"/>preſſe,</hi>
+               <pb n="11" facs="tcp:161385:6"/>
+* That by their inſtruments and agents they attempted to
+diſaffect and diſcontent his Majeſties Army (in the North) to en<g ref="char:EOLhyphen"/>gage
+for the maintenance of their wicked and trayterous deſignes,<note place="margin">Exact Colecti<g ref="char:EOLunhyphen"/>on p. 18. 210. 211. 219. 217. 218. 221. 222 228.</note>
+the keeping up Biſhops in votes and functions; and by force
+<hi>To COMPEL THE PARLIAMENT,</hi> to order, limit, and diſpoſe
+their proceedings in ſuch manner as might beſt concur with the
+intentions of their dangerous and potent faction. To <hi>which end they
+concluded,</hi> that the Army ſhould keep together and not disband till
+all their arreares were paid: That they ſhould petition the Parli<g ref="char:EOLhyphen"/>ament
+for money, there being ſo great arrears due unto them, &amp; ſo
+much delayes made for the procuring of them. That they
+ſhould likewiſe ſend up a Declaration to the Parliament of theſe
+particulars, That nothing ſhould be done in Parliament, contrary
+to any former act of Parliament. That Biſhops ſhould be maintai<g ref="char:EOLhyphen"/>ned
+in their Votes and functions, And the Kings Revenue be e<g ref="char:EOLhyphen"/>ſtabliſhed.
+That they ſhould bring up the Army to London, a<g ref="char:EOLhyphen"/>gainſt
+the Parliament and City, <hi>for</hi> that the Army heard of great
+tumults about London; (&amp; therefore offered themſelves to ſerve
+the King and Parliament (in a Petition drawen to that purpoſe)
+with the laſt drop of their blouds: <hi>and by this pretence of guar<g ref="char:EOLhyphen"/>ding
+the Parliament</hi> and City upon <hi>this noyſe of Tumults in</hi> Lon<g ref="char:EOLhyphen"/>don,
+to compell the Houſes to Order things according to their de<g ref="char:EOLhyphen"/>ſires,
+and to ſecure the Tower of London, <hi>and</hi> Portsmouth, <hi>and</hi> im<g ref="char:EOLhyphen"/>peach
+the leading Members that ſhould oppoſe them; <hi>which laſt
+was put in execution, againſt ſome</hi> Members, <hi>as is before related.</hi>
+            </p>
+            <p>Whether <hi>Cromwell</hi> and his <hi>Confederates,</hi> have not punctually
+purſued their trayterous deſignes, and far out-ſtripped them in
+all theſe particulars, by engaging this Army of late upon the
+ſame grounds &amp; pretences to do the very ſame and much more in
+reality, which that Army then was only deſigned to do intentio<g ref="char:EOLhyphen"/>naly;
+let the impartial reader judge, <gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap> who are the greateſt <hi>Tray<g ref="char:EOLhyphen"/>tor</hi>
+and <hi>Conſpirators</hi> of the two againſt the <hi>Parl. Kingdome,</hi> and
+<hi>King</hi> too (whom they have forcibly plundered out of both hou<g ref="char:EOLhyphen"/>ſes
+poſſeſſion, from whom they ſtill detaine him, and recruit and
+keepe the Army together, neare the City, to give lawes to <hi>Par<g ref="char:EOLhyphen"/>liament,
+City, King</hi> and <hi>Kingdome,</hi> to impeach, impriſon, ſuſpend
+and expell the Members of both houſes who dare oppoſe them,
+at their pleaſure; and inforce them to vote and unvote what their
+<pb n="12" facs="tcp:161385:7"/>
+Grand Councell of the Army and <hi>Agitators</hi> ſhall preſcribe them)
+let the Houſes, City, and Kingdome determine. Certainly their
+late intimacy and correſpondency with <hi>Aſhburuham,</hi> and Capt.
+<hi>Legg,</hi> who had a great hand in this <hi>Conſpiracy and Treaſon,</hi> of
+bringing up the <hi>Northren Army to London</hi> upon theſe pretences,
+againſt the Parliament, and City who adheered to them; makes in<g ref="char:EOLhyphen"/>telligent
+men ſhrewdly ſuſpect, they had a finger in bringing up
+the Armie of late to <hi>London,</hi> upon the like pretences of <hi>tumults
+there<g ref="char:punc">▪</g>
+               </hi> who have been more unreaſonable and treaſonable in their
+Remonſtrances, Petitions, Demands to, &amp; Actions againſt the hou<g ref="char:EOLhyphen"/>ſes,
+and Members then the Northren Army: <hi>ex Cauda Draconem.</hi>
+            </p>
+            <p>What crime it is for any to accuſe Members of Parliament of
+<hi>Treaſon</hi> for acting or voting any thing in Parliament, or by the
+Parliaments authority or command, will evidently appeare by the
+reſolutions of two ancient Parliaments.</p>
+            <p>In the 10. yeare of King <hi>Richard</hi> the 2. the Parliament by a<note n="*" place="margin">
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> c. R. 2. c. 1. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> R. 2. c. 1. 2. 3.</note>
+               <hi>ſpeciall Act and Commiſſion,</hi> put the government of the Kingdom,
+and Kings Revenues into the hands of certaine Lords, by reaſon
+of the Kings miſgovernment: Whereupon the King ſoone after
+that Parliament ended, called his Judges, and Counſell at Law to
+<hi>Nottingham Caſtle</hi> to demand their opinions concerning this act
+and Commiſſion and the procurers thereof in Parliament; and
+concerning ſome proceedings in Parliament: to which they re<g ref="char:EOLhyphen"/>turned
+their Anſwer, thus expreſſed in the Statute of 21. R. 2. c. 12.</p>
+            <p>Memorandum that the 25. day of the moneth of <hi>Auguſt</hi> the
+11th. yeare of the Raigne of King <hi>Richard</hi> the ſecond, at the
+Caſtle of <hi>Nottingham,</hi> before our ſaid Soveraigne Lord the King,
+<hi>Rob. Treſilyan</hi> chieif Juſtice, <hi>Rob. Belknap,</hi> chief Iuſtice of the com<g ref="char:EOLhyphen"/>mon
+Bench, <hi>Io. Halt, Rog. Fulthrop, &amp; Wil, Burgh, Kts.</hi> fellows of
+the ſaid <hi>Rob. Belk. &amp; Io. Locton</hi> one of the Kings Serj. at Law, being
+perſonally required in the preſence of the Lords &amp; other witneſſes
+under written, by our ſaid Soveraign L. the King in the faith &amp; Le<g ref="char:EOLhyphen"/>geance
+by which they be firmly bounden to the ſaid King, that they
+ſhould truely anſwer to certain queſtions under written, and before
+them recited, and upon the ſameby their diſcretions to ſay the law.</p>
+            <p>Firſt it was enquired of them? <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> whether that the ſame new Sta<g ref="char:EOLhyphen"/>tute
+and Ordinance, and the Commiſſion made in the laſt<note n="*" place="margin">10. Ri. 2. c. 1.</note> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Parlia<g ref="char:EOLhyphen"/>ment
+holden at <hi>Weſtm</hi> be hurtful to the Kings Royal prerogative?</p>
+            <p>
+               <pb n="13" facs="tcp:161385:7"/>
+Whereunto all of one minde anſwered, that they bee
+hurtfull, <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>2</label> and ſpecially becauſe they were againſt the Kings will.
+Item it was enquired of them, how they ought to be puniſhed, w<hi rend="sup">ch</hi>
+procured the ſaid Statute, Ordinance, and Commiſſion to be made?</p>
+            <p>Whereunto with one aſſent they anſwered, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> how they ought to
+be puniſhed by the capitall paine, that is to ſay, of death, unleſſe the
+King in this party of his grace will pardon them.</p>
+            <p>Item, <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>3</label> it was enquired, how they ought to be puniſhed which
+excited the ſaid King to conſent to the making of the ſaid ſtatute,
+Ordinance, and Commiſſion?</p>
+            <p>Where unto of one minde they ſaid, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>3</label> that unleſſe the King would
+give them his pardon, they ought to be puniſhed by the capitall
+paine.</p>
+            <p>Item, <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>4</label> it was enquired of them, what paine they deſerved, that
+compelled the King to conſent to the making of the ſaid Statute,
+Ordinance, and Commiſſion?</p>
+            <p>Whereunto by one aſſent they gave anſwer, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>4</label> that as Traytors
+they ought to be puniſhed.</p>
+            <p>Item, <label type="milestone">
+                  <seg type="milestoneunit">queſt. </seg>5</label> how they ought to be puniſhed, that did interrupt the
+King, ſo that he might not exerciſe thoſe things that appertaineth
+to his regallity and prerogative?</p>
+            <p>Where unto of one aſſent it was anſwered, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>5</label> that they ought to be
+puniſhed as Traitors.</p>
+            <p>Item, <label type="milestone">
+                  <seg type="milestoneunit">queſt. </seg>6</label> it was enquired of them, whether that after that the bu<g ref="char:EOLhyphen"/>ſineſſe
+of the Realme, and the cauſe of the Aſſembly of the Parlia<g ref="char:EOLhyphen"/>ment,
+were by the King Commandement diſcloſed and declared
+in the Parliament, and other Articles limitted by the King, upon
+which the Lords and Commons of the Realme ought to proceed
+in the ſame Parliament, if the Lords and Commons would in any
+wiſe proceed upon other Articles, and in no wiſe upon the Articles
+limited by the King, till the King had anſwered to the Articles
+expreſſed by them: Notwithſtanding that they were by the King
+enjoyned to the contrary: Whether the King in this caſe ought
+to have the rule of the Parliament, and indeed to rule, to the in<g ref="char:EOLhyphen"/>tent,
+that upon the Articles limitted by the King, they ought firſt
+to proceed or not, before they proceed any further?</p>
+            <p>To this queſtion of one minde they anſwered; <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>6</label> That the King
+in this partie ſhould have the rule, and ſo in order one after ano<g ref="char:EOLhyphen"/>ther
+<pb n="14" facs="tcp:161385:8"/>
+in all other Articles touching the Parliament untill the end
+of the Parliament; And if any doe contrary to this rule of the
+King, he ought to be puniſhed as a Traytor.</p>
+            <p>Item whether the King when ſoever it pleaſeth him, <label type="milestone">
+                  <seg type="milestoneunit">queſt </seg>7</label> might di<g ref="char:EOLhyphen"/>ſſolve
+the Parliamenr, and command his Lords and Commons to
+depart from thence or not?</p>
+            <p>Whereunto it was of one mind anſwered, that he may. And if
+any would proceed in the Parliament againſt the King will, <label type="milestone">
+                  <seg type="milestoneunit">anſwer. </seg>7</label> he is
+to be puniſhed as a Traytor.</p>
+            <p>Item it was enquired. <label type="milestone">
+                  <seg type="milestoneunit">queſt. </seg>8</label> ſince that the King whenſoever himſelfe
+pleaſed might remove his Officers or Iuſtices, and to juſtifie and
+puniſh them for their offences, Whether the Lords and Commons
+might without the Kings will, impeach the ſame Officers and Iuſti<g ref="char:EOLhyphen"/>ces
+upon their offences in the Parliament or not?</p>
+            <p>To which queſtion it was by one mind anſwered, that they might
+not, <label type="milestone">
+                  <seg type="milestoneunit">anſw. </seg>8</label> And he that doth contrary is to be puniſhed as a Traytor.</p>
+            <p>Item it was enquired how he is to be puniſhed that moved in
+the Parliament, <label type="milestone">
+                  <seg type="milestoneunit">queſt. </seg>9</label> that the ſtatute ſhould be ſent for whereby <hi>Ed<g ref="char:EOLhyphen"/>ward</hi>
+the Sonne of King <hi>Edward</hi> Great Grandfather to the King
+that now is, was another time endited in the Parliament, by the
+inſpection of which ſtatute, the ſaid new ſtatute or Ordinances,
+and Commiſſion were conceived in the Parliament?</p>
+            <p>To which queſtion, <label type="milestone">
+                  <seg type="milestoneunit">anſw. </seg>9</label> of one accord they anſwered, that as well
+he that ſo moved, as the other which by force of the ſame motion
+brought the ſaid Statute into the Parliament Houſe, be as Cri<g ref="char:EOLhyphen"/>minous
+and trayterous worthy to be puniſhed.</p>
+            <p>Item it was enquired of them, <label type="milestone">
+                  <seg type="milestoneunit">queſt. </seg>10</label> whether the Iudgement given in
+our Parliament holden at <hi>Weſtminſter</hi> againſt the Earl of <hi>Suffolk</hi>
+were erronious and revocable or not?</p>
+            <p>To which queſtion of one aſſent they ſaid, <label type="milestone">
+                  <seg type="milestoneunit">anſw. </seg>10</label> that if the ſame judg<g ref="char:EOLhyphen"/>ment
+were now to be given, the ſame Iuſtices and Serjeants afore<g ref="char:EOLhyphen"/>ſaid
+would not give the ſame, becauſe it ſeemed to them that the
+ſame judgement is revocable as erronious in every part.</p>
+            <p>In witnes whereof the Iuſtices and Serjeant aforeſaid to this
+preſent have ſet their ſeales, Theſe men being Witneſſes, the Re<g ref="char:EOLhyphen"/>verend
+Fathers, The Lords, <hi>Alexander Arch Biſhop of York, Ro<g ref="char:EOLhyphen"/>bert
+Archbiſhop of Dublin, Iohn Biſhop</hi> of <hi>Darham, Thomas Bi<g ref="char:EOLhyphen"/>ſhop
+of Cheſter, Iohn Biſhop of Bangore; Robert Duke of Ireland,
+<pb n="15" facs="tcp:161385:8"/>
+Mighell Earle of Suffelk, Iohn Ryppon Clerk,</hi> and <hi>Iohn Blake.</hi>
+Dated the day, place, moneth and yeare aforeſaid.</p>
+            <p>For this opinion of theirs; <hi>That</hi> the Lords procuring of this
+Commiſſion, Statute, and Ordinance in Parliament was <hi>Treaſon,</hi>
+and, That the, Members in Parliament might be guilty of <hi>Treaſon,</hi>
+for their free votes and proceedings in Parliament; or acting any
+thing by the Parliaments authority and command in the caſes
+propounded to them, they were all the very next Parliament 11.
+<hi>R.</hi> 2, accuſed of <hi>Treaſon,</hi> impeached <hi>as Traytors</hi> and <hi>Ene<g ref="char:EOLhyphen"/>mies
+to the King and Realms, fore-judged of their lives, and judg<g ref="char:EOLhyphen"/>ment
+given againſt them of forfeiture of all their Lands, tene<g ref="char:EOLhyphen"/>ements,
+goods and Chattels,</hi> as the ſtatutes of 11. <hi>R.</hi> 2. c. 1. 2. 3.
+4. 5. 21, <hi>R.</hi> 2. c. 12. &amp; our Hiſtorians in 11. <hi>R.</hi> a. record. <hi>Tryſilian</hi> was
+drawen to <hi>Tyburn,</hi> and there executed others were perpetual<g ref="char:EOLhyphen"/>ly
+baniſhed: <hi>Belknap</hi> himſelfe confeſſed, and ſaid,<note n="*" place="margin">Speedes Hiſt p. 747<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>There
+wanted but a hurdle a horſe. and a halter to carry him where he
+might ſuffer the death he deſerved: for if I had not
+done this</hi> I ſhould have died for it, and becauſe <hi>I</hi> have
+done it, <hi>I Deſerve Death for Betraving the Lords.</hi> This
+judgment being reverſed by the Kings power in the forced Par<g ref="char:EOLhyphen"/>liament
+of 21. <hi>R.</hi> 2. c 12. it was in the next Parliament of 1. <hi>H.</hi>
+4. c. 3. 4. affirmed and confirmed, as given <hi>for the great Honor,
+and common profit of the</hi> Realme. So as theſe two Parliaments
+have reſolved, that to accuſe Lords and Members of Parliament,
+of treaſon for votes, Ordinances, and proceedings of Parliament,
+or for acting in or by Authority of Parl, is no leſſe then Trea<g ref="char:EOLhyphen"/>ſon,
+and that ſuch accuſers and impeachers (eſpecially if Judges and
+Lawyers) are Traytors and Enemies both to King; and Kingdom,
+undermining the Freedome; Priviledges, and Foundation of all
+Parliaments, where no Members can ſet or ſpeak freely and ſecure<g ref="char:EOLhyphen"/>ly
+without endangering their heads and, ſtates, nor any act ſecur<g ref="char:EOLhyphen"/>ly
+under their Ordinances and Commandes if they may be thus
+impeached and become guilty of high Treaſon, for what they
+ſhall voteand act in Parliament, or by its order and Authority.</p>
+            <p>
+               <hi>This Preſident, was cited at large and much urged by Mr.</hi> Oli<g ref="char:EOLhyphen"/>ver
+St Iohn <hi>his</hi> Majeſties Solicitor Generall, <hi>in his</hi> ſpeech <hi>at a</hi>
+conferrence <hi>of</hi> both Houſes <hi>of Parliament concerning</hi> Ship-mo<g ref="char:EOLhyphen"/>ney,
+<hi>lanu: 1640. printed by the Houſes Order pa. 28. &amp;c. where
+<pb n="16" facs="tcp:161385:9"/>
+he proves out of the Parliament Rolls.</hi> That in this very caſe,
+Iudgement of High Treaſon was given againſt 18. ſeverall per<g ref="char:EOLhyphen"/>ſons:
+8. whereof were executed, the reſt baniſhed, and their Lands
+and Goods forfeited; That it was made Fellony for any to procure
+their pardon, and they to be delt withall as Traytors, if they retur<g ref="char:EOLhyphen"/>ned
+from their baniſhment.</p>
+            <p>That of theſe 18 perſons, all ſave three were impeached by the
+Commons. That the ſumme of their offence and Treaſon was;
+<hi>Their</hi> endeavouring to overthrow<note n="*" place="margin">NOTE<g ref="char:punc">▪</g>
+               </note> Parliamentary proceedings;
+and conſpiracy againſt the Perſons of thoſe Lords, who procured
+this Commiſſion and Act of Parliament for the good of the King<g ref="char:EOLhyphen"/>dome,
+with reference to their proceedings in Parliament, thereby
+to overthrow the Commiſſion and Act of Parliament, wherein
+thoſe Lords had been principall Actors. That the judgements
+given againſt them were not hudled up in haſt, but given upon
+longe and mature deliberation; being the whole work of that Par<g ref="char:EOLhyphen"/>liament
+from <hi>Nov.</hi> 14. till <hi>Febr.</hi> 15. following: the Houſes ſpen<g ref="char:EOLhyphen"/>ding
+long time, and taking great paines in examining the evidence
+the better thereby to ſatisfie their owne conſcience and the world:
+<hi>That</hi> the Parliament of 21. <hi>R. 2. which revoked</hi> and made void
+theſe judgements, was held by force,<note n="*" place="margin">And is not this ſo held ſince the armies march to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> Guards up<g ref="char:EOLhyphen"/>on it, &amp; quar<g ref="char:EOLhyphen"/>tering about it?</note> 
+               <hi>viris armatis, et ſagittarijs im<g ref="char:EOLhyphen"/>menſis,</hi>
+as is declared in the Parliament Roll of 1. <hi>H. 4. No. 21. &amp;</hi>
+22. That this Parliament of Revocation was <hi>no free Parliament.
+And</hi> in the Parliament of 1. <hi>H. 4. No.</hi> 48. theſe judgements of Re<g ref="char:EOLhyphen"/>vocation
+are declared to be <hi>erronea, iniqua, et omni juri, et ratio<g ref="char:EOLhyphen"/>ni
+repugnantia:</hi>
+erronius, wicked, and contrary to all right and
+reaſon: And in the Parliament of 1. <hi>H.</hi> 4. in print, theſe Attain<g ref="char:EOLhyphen"/>dors
+are confirmed. So that theſe Iudgements of Attaindors have
+the authority of two Acts of Parliament, both of them of force at
+this day: though theſe Iudges delivered theſe erronious opinions a<g ref="char:EOLhyphen"/>gainſt
+the Lords by violence for<note n="*" place="margin">If no excuſe in theſe Iudges, much leſſe in Parliament Members; who now plead it.</note> feare of death &amp; torture of their
+Bodies, which was no excuſe. <hi>So he: How far this Preſident may
+trench upon any Lawyers now, in relation, to the impeachment of
+any Lords and Members for what they acted in this preſent Par<g ref="char:EOLhyphen"/>liament
+and by authority and Ordinances of both Houſes, let Mr.</hi>
+Solicitor, <hi>and the Ho<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>es, whom it moſt concernes, determine.</hi>
+            </p>
+            <p>Of what crime thoſe are guiltie, who out of particular
+ſpleen, malice, or to carry on their owne private deſignes have
+<pb n="17" facs="tcp:161385:9"/>
+lately mutined and brought up the <hi>Army</hi> to <hi>London,</hi> and by its
+countenance and power moſt injuriouſly impeached ſome <hi>faith
+full Lords and Commons of High Treaſon,</hi> for <hi>ſitting and voting
+in Parliament,</hi> and acting only in obedience to their <hi>Ordinances
+and Commands,</hi> for the Parliaments <hi>ſervice and defence,</hi> againſt a
+<hi>rebellions Army,</hi> marching up againſt the Houſes and Cittie in an
+Hoſtile manner againſt the <hi>Houſes</hi> expreſſe commands to the con<g ref="char:EOLhyphen"/>trary?
+and whether they be not <hi>Traitors</hi> and <hi>Enemies</hi> to the
+Realme in this particular, &amp; as bad or worſe then the <hi>Gun-powder
+Traitors,</hi> which would have blown up the <hi>Members</hi> only of one
+<hi>Parliament,</hi> where as theſe endeavour to blow up the foundati<g ref="char:EOLhyphen"/>ons
+of all Parliaments, with their Members and Priviledges too at
+once, let theſe two ancient Parliaments, and thoſe who are learned
+in the Lawes reſolve.</p>
+            <p>And certainely this very Parliament, hath oft declared them
+ſuch and no better in the promiſed <hi>Declarations,</hi> and ſundry o<g ref="char:EOLhyphen"/>thers:
+and the Houſe of Commons alone in this obſervable <hi>Vote</hi>
+printed by their ſpeciall Order.</p>
+         </div>
+         <div type="resolution">
+            <head>
+               <note n="*" place="margin">An ex<g ref="char:EOLhyphen"/>act Col<g ref="char:EOLhyphen"/>lection, p. 190.</note> 
+               <date>Die Jovis 12 Maii. 1642</date>
+Reſolved upon the Queſtion.</head>
+            <p>
+               <hi>THat this Houſe doth declare, that if anie perſon whatſoever
+ſhall</hi> arreſt <hi>or</hi> impriſon the perſons of the Lords and Gentle<g ref="char:EOLhyphen"/>men,
+<hi>or anie of them; or <hi>Any other of the Members of either
+Houſe of Parliament,</hi>
+               </hi> that ſhall be imployed in the ſervice of
+both houſes of Parliament, or ſhall offer violence to them, or any
+of them <hi>For being Any thing in purſuance of the Commands
+or infirmations of both Houſes,</hi> ſhall be held <hi>Diſturbers of the
+proceedings of Parliament, and publick Enemies of the State.</hi>
+And that <hi>all Perſons are bound by their Proteſtation to endea<g ref="char:EOLhyphen"/>vour
+to bring then to condigne puniſhment.</hi>
+            </p>
+            <p>
+               <hi>Much more then are both Houſes in Honour and Juſtice bound
+to do it, by their</hi> Proteſtation, <hi>and much more by their</hi> Solemne
+League and Covenant; <hi>wherein</hi> they have lifted up their hands
+to the moſt High God, and ſworne, ſinceerely, really, and conſtantly
+to endeavour with their Eſtates and lives, mutually to preſerve
+<pb n="18" facs="tcp:161385:10"/>
+the rights and priviledges of Parliaments, and not to ſuffer
+themſelves directly or indirectly, by <hi>Whatſoever combination,
+perſwaſion, or terrour</hi> to be withdrawne from this Covenant;
+or to give themſelves to a deteſtable indifferency or neutrality
+in this cauſe, but all the dayes of their lives to continue zealouſly
+and conſtantly therein: and to diſcover all Incendiaries, Ma<g ref="char:EOLhyphen"/>lignants,
+and evil Inſtruments <hi>who act any thing</hi> contrary to
+this League and Covenant, and that they may be brought to
+publick tryall, and receive condigne puniſhment, as the degree of
+their Offiecnces ſhall deſerve, or the ſupreame Iudicatory of the
+Kingdome judge convenient.</p>
+            <p>Which clauſe of the Covenant, it is high time for them, and e<g ref="char:EOLhyphen"/>very
+true-hearted Engliſh man, who makes conſcience of his Co<g ref="char:EOLhyphen"/>venant,
+or beares any love to Parliaments, to remember and put
+in due execution after ſo many inſufferable violations of the un<g ref="char:EOLhyphen"/>dubitable
+Rights and Priviledges of Parliament, and moſt injuri<g ref="char:EOLhyphen"/>ous,
+malicious, violent proſecutions, falſe impeachments, ſuſpen<g ref="char:EOLhyphen"/>tions,
+&amp; expulſions, of their innocent wel deſerving Members, for
+their fidelity and duty to the Houſes and their Countrey; for feare
+the honour, power and priviledges of Parliament be blowne up
+and loſt for ever by baſe unworthy, cowardize, and ſilence in
+this common cauſe, which ſo greatly concerns our whole King<g ref="char:EOLhyphen"/>domes
+preſent and future welfare, peace and ſettlement.</p>
+            <p>And till the Houſes right and vindicate themſelves and their
+Members herein, let them never expect any Honour, bleſſing, or
+cordial aſſiſtance from God or Men, but to be made the obloquy
+ſhame and ſcorne both of the preſent and all future Ages, after
+all their former ſplendor and renowne, now almoſt totally and fi<g ref="char:EOLhyphen"/>nally
+ecclipſed, by what means and degrees themſelves beſt know,
+whereof their late deſerting and betraying of their owne
+innocent worthy Members to the malice of ſome potent Officers,
+in the Army (contrary to their former proceedings in the caſe of
+the Lord <hi>Kimbolton,</hi> Mr. <hi>Hollis,</hi> Mr. <hi>Pym,</hi> and others, which gaind
+them ſo much honour, love<g ref="char:punc">▪</g> and ready aſſiſtance from the City
+and Kingdome) is not the leaſt.</p>
+            <p>
+               <hi>Qui Deo et ſibi nequam cui bonus?</hi> If they ſhall prove un<g ref="char:EOLhyphen"/>faithfull
+to God, their owne and the peoples ſoules, in not ſet<g ref="char:EOLhyphen"/>ling
+<hi>Religion,</hi> ſuppreſſing <hi>Hereſies, Errors, Blaſphemies, Sciſms;</hi>
+               <pb n="19" facs="tcp:161385:10"/>
+or treacherous to their owne <hi>Priviledges,</hi> &amp; <hi>faithfull Presbyte<g ref="char:EOLhyphen"/>rian
+Members</hi> in ſacrificing them any longer to the Ambition,
+and malice of L. G. <hi>Crumwell</hi> and his <hi>Confederates,</hi> (ten thou<g ref="char:EOLhyphen"/>ſand
+times<note n="*" place="margin">See the <hi>Put<g ref="char:EOLhyphen"/>ney projectors</hi> A Word to Lieut. Gen. <hi>Cromwell</hi> An: <hi>Anatomy</hi> of <hi>the Army,</hi> where this is abun<g ref="char:EOLhyphen"/>dantly proved.</note> more guilty then they of thoſe very <hi>Crimes</hi> &amp; <hi>Trea<g ref="char:EOLhyphen"/>ſons</hi>
+of which they have falſly impeached them, and therefore to
+be impeached, impriſoned, and caſt out of the <hi>Houſe</hi> and <hi>Army</hi>
+rather then they) without reſtoring them to the <hi>Houſes</hi> and their
+<hi>Liberty,</hi> with juſt and <hi>Honorable reparations</hi> to the <hi>Houſes</hi> and
+<hi>them,</hi> from their malicious <hi>Accuſers,</hi> to prevent the like future
+attempts upon other <hi>eminent Members and Patriots</hi> of their
+Country; neither God, nor men, City, nor Country, <hi>Engl. Scotl.
+nor Ire.</hi> (whoſe affections they have almoſt quit eſtranged &amp; loſt)
+will ever truſt, beleeve, honor, or cordially adhere to them
+any more, but utterly deſert and caſt them off, as <hi>undoers</hi> or <hi>be<g ref="char:EOLhyphen"/>trayers</hi>
+of them ſelves and them: And then what will become
+of their <hi>Honors,</hi> the idolized <hi>Generall, Cromwell,</hi> and imperi<g ref="char:EOLhyphen"/>ous
+<hi>Army;</hi> their late compliances with whom in their unjuſt <hi>im<g ref="char:EOLunhyphen"/>peachments,</hi>
+and <hi>Demands</hi> have almoſt quite loſt all their
+other beſt affected friends, and brought them into that low, con<g ref="char:EOLhyphen"/>temptible,
+and almoſt deſperate condition, of which they now
+complaine. Repent therefore inſtantly of all your late diſhono<g ref="char:EOLhyphen"/>rable
+faylings in this kind, or any other; and <hi>do your firſt work<g ref="char:punc">▪</g>
+               </hi>
+to regaine the diſcontented Members, Citizens, and King<g ref="char:EOLunhyphen"/>domes
+hearts, and preſerve your ſelves and them from appro<g ref="char:EOLhyphen"/>ching
+utter ruine. And remember the Apoſtles caveat, Gal. 5. 1 <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,
+15, <hi>for all the Law is full-filled in one word, even in this, Thou
+ſhalt love thy Neighbor as thy ſelf. But if ye bite &amp; devour one
+another, Take heed that yee be not conſumed one of another</hi>
+and made a prey to the Common Enemy; who rejoyceth at your
+inteſtine animoſities, and diviſions, the ſad effects whereof our
+Saviour himſelfe hath peremptorily predicted, Mar. 3. 24. 25. <hi>If
+a Kingdome be divided againſt it ſelfe, that Kingdome cannot
+ſtand; And if a Houſe</hi> (of Parliament) <hi>be divided againſt it ſelfe,
+that Houſe cannot ſtand.</hi> The Lord give all hearts and wiſdome
+to conſider and beleeve it whom it doth concerne, and thoſe eſ<g ref="char:EOLhyphen"/>pecially
+who have been the Authors and contrivers of the late
+<hi>malicious impeachments,</hi> againſt the <hi>Lords, commons,</hi> and <hi>citi<g ref="char:EOLhyphen"/>zens,</hi>
+which they are unable to make good.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
